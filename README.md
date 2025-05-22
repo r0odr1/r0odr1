@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Rodri
+# 👋 ¡Hola! Soy Rodrigo Bonilla
 
 Soy desarrollador web apasionado, con experiencia en la creación de sitios web dinámicos y responsivos. Domino HTML, CSS, SASS, JavaScript, Angular, React, Node.js y SQL Server. Me encanta aprender nuevas tecnologías y mejorar mis habilidades constantemente. Busco un entorno de trabajo colaborativo donde pueda contribuir y crecer profesionalmente.
 
@@ -15,11 +15,6 @@ Soy desarrollador web apasionado, con experiencia en la creación de sitios web 
 
 ### 🔹 [Portfolio Personal](https://portfolio-r0odri.vercel.app)
 Mi sitio personal donde muestro mis proyectos, habilidades y experiencia. Hecho con HTML, CSS y JavaScript usando React y Next.js, desplegado en Vercel.
-
-## 📈 Estadísticas de GitHub
-
-![Rodri's GitHub stats](https://github-readme-stats.vercel.app/api?username=r0odr1&show_icons=true&theme=github_dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0odr1&layout=compact&theme=github_dark)
 
 ## 💬 Contacto
 
